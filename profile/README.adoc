@@ -27,8 +27,15 @@ The marketing site mirrors these under link:https://github.com/dev-centr/devcent
 
 We make significant contributions to various projects, so this is where we put our contributions:
 
+* **link:https://github.com/openshellorg[OpenShellOrg]:** Shell/CLI standards, SOS certification, entrypoint dispatch, Nu companions. Home: link:https://openshellorg.github.io/[openshellorg.github.io] · Docs: link:https://openshellorg.github.io/open-shell-org/[docs hub]. Aligned with DevCentr on toolchain honesty — not merged.
 * **link:https://github.com/dlang-supplemental[dlang-supplemental]:** A collection of D-lang libraries and tools for various purposes.
 * **link:https://github.com/asciidoc-supplemental[asciidoc-supplemental]:** A collection of AsciiDoc tools and utilities.
+
+=== Related cluster (quick links)
+
+* link:https://devcentr.org[devcentr.org] · link:https://docs.devcentr.org[docs.devcentr.org] · link:https://github.com/dev-centr[dev-centr]
+* link:https://openshellorg.github.io/[OpenShellOrg] · link:https://openshellorg.github.io/open-shell-org/[OSO docs] · link:https://github.com/openshellorg[openshellorg]
+* link:https://github.com/dlang-supplemental[dlang-supplemental]
 
 == 📦 Repository Groupings
 

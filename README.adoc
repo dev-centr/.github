@@ -1,3 +1,7 @@
 = GitHub Profile
 
 GitHub Profile. Edit profile in link:profile/README.adoc[profile/README.adoc]
+
+== Changelog
+
+link:CHANGELOG.adoc[Changelog].

@@ -1,0 +1,95 @@
+= Changelog
+
+== 2026-11-20
+
+=== Docs template pointer
+
+* Record the suggested default docs template from dev-centr/agent-rules. The choice is a URL in this repo, not a pasted copy of the template.
+
+== 2026-10-17
+
+=== Add reusable docs-hub link-cache-invalidate dispatch workflo
+
+* Add reusable docs-hub link-cache-invalidate dispatch workflow.
+
+== 2026-10-06
+
+=== ci enable Dependabot for GitHub Actions (monthly, grouped)
+
+* ci: enable Dependabot for GitHub Actions (monthly, grouped)
+
+== 2026-10-05
+
+=== Add encoding guard (UTF-8 mojibake check)
+
+* Add encoding guard (UTF-8 mojibake check).
+
+== 2026-09-17
+
+=== docs refresh org profile README
+
+* docs: refresh org profile README
+* fix(profile): mirror transparent DevCentr favicon
+* fix(profile): mirror concentric two-tone DevCentr favicon
+* Sync favicon with equal hub/satellite radii.
+
+== 2026-08-16
+
+=== Harbor a packed favicon derived from the orbital mark
+
+* Harbor a packed favicon derived from the orbital mark.
+
+== 2026-07-25
+
+=== Remove visibility footer from org profile README
+
+* Remove visibility footer from org profile README
+
+== 2026-07-24
+
+=== Add DevCentr org avatar asset and profile upload note
+
+* Add DevCentr org avatar asset and profile upload note.
+* Harbor DevCentr SVG mark in the org profile folder.
+* Add 256px transparent logo and clarify on-dark rasters.
+* Harbor logo-motion.svg in the org profile brand set.
+* Add dprint config for the org profile repo.
+
+== 2026-03-05
+
+=== redid profile
+
+* redid profile
+* updated from .github-private
+
+== 2026-03-04
+
+=== remove markdown; update invalid adoc
+
+* remove markdown; update invalid adoc
+
+== 2026-03-02
+
+=== Update profile with docsdevcntrorg and devcntrorg URLs
+
+* Update profile with docs.devcntr.org and devcntr.org URLs
+
+== 2026-02-25
+
+=== Rename organization to DevCntr and update README
+
+* Rename organization to DevCntr and update README
+* Update profile with repository groupings and new domains
+* Convert README.md files to AsciiDoc
+* Update organization name in project files
+
+== 2026-02-09
+
+=== Add initial README for GitHub profile
+
+* Add initial README for GitHub profile
+* Create README.md
+* Update README with project details and links
+* Revise README description for clarity and focus
+* Fix capitalization in README description
+
